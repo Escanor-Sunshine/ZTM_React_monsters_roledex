@@ -28,7 +28,7 @@ class App extends Component {
 
         return (
             <div className='App'>
-                <h1>Monsters Roledex</h1>
+                <h1>Monsters Roledex Testing</h1>
                 <SearchBox
                     placeholder='Search people'
                     handleChange={(e) =>
