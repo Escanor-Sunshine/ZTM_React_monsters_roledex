@@ -2,7 +2,7 @@
     "name": "monsters-roledex",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://escanor-sunshine.github.io/ZTM_React_monsters_roledex",
+    "homepage": "http://escanor-sunshine.github.io/ZTM_React_monsters_roledex/",
     "dependencies": {
         "@testing-library/jest-dom": "^5.11.10",
         "@testing-library/react": "^11.2.6",
